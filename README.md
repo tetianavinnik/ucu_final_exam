@@ -63,7 +63,7 @@ And the output as follows:
 ### Statement
 Today you were preparing for the final programming exam when somebody approached you in the Trapzena and intrigued you with an exciting task (maybe it's professor Scherbyna, but I'm not sure). The statement is as follows: you are given a ```n```-length list of positive integer heights. This list represents ```n``` columns that are standing on the ground. Your task is to determine how much water we can fill in this 2D grid that is formed by these columns. Note that water should not flow out. See the example below.
 ### Details
-You should develop ```get_amount_of_water(heights: List[int]) -> int``` function that takes a list of height as a parameter and returns the amount of water that you can fill into it.
+You should develop ```get_amount_of_water(heights: List[int]) -> int``` function that takes a list of heights as a parameter and returns the amount of water that you can fill into it.
 For example, if the array is [5, 1, 3, 2, 4, 2, 3] we can fill 7 units of water. Character 'w' in the example denotes water.
 ```
  █                    => █
