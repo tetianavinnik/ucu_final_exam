@@ -73,3 +73,4 @@ For example, if the array is [5, 1, 3, 2, 4, 2, 3] we can fill 7 units of water.
  █  █  █  █  █  █  █  => █  █  █  █  █  █  █
  5  1  3  2  4  2  3  =>   +3 +1 +2    +1     = 7
 ```
+![Image](./assets/flood.jpg)
