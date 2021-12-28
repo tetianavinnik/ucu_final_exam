@@ -5,7 +5,7 @@
 ## Aliens
 ### Statement
 Yesterday UCU CS students developed a warp engine and traveled millions of light-years. After the long journey, they finally meet aliens. To prove intelligence students are required to pass a test. Unfortunately, they skipped some of Romanyuk's classes, so they are not familiar with number systems. The statement of a test is follows:
-You're given an integer ```n```, find count of number systems, that are less than ```n``` and in which representation of integer ```n``` is a polynomial. As an example, for integer 9 you should return 2 since in binary system 9=0b1001 is a polynomial and in octal system 9=011 is a polynomial. The decimal number system doesn't count because 10 is not less than 9.
+You're given an integer ```n```, find count of number systems, that are less than ```n``` and in which representation of integer ```n``` is a polynomial. As an example, for integer 9 you should return 2 since in binary system ```9=0b1001``` is a polynomial and in octal system ```9=011``` is a polynomial. The decimal number system doesn't count because 10 is not less than 9.
 ### Details
 You should develop a ```calc_systems_count(num: int) -> int``` function that takes a ```num``` as a parameter and returns number of systems that are less than ```num``` and in which representation of ```num``` is a polynomial. Examples:
 ```python
